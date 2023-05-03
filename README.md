@@ -1,5 +1,5 @@
-### Proyecto JSF
-- #### Proyecto Java Web / JSF , PrimeFaces e Hibernate
+### Proyecto JAVA web / JSF
+- #### JSF , PrimeFaces e Hibernate
 - #### Uso de métodos  CRUD 
 
 
